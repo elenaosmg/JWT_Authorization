@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "classnames": "^2.5.1",
+    "tar": "^7.0.1"
+  }
+}
